@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223459708235",
+    "project_id": "insta-teacher",
+    "storage_bucket": "insta-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223459708235:android:2ad4e0c54270907e262cce",
+        "android_client_info": {
+          "package_name": "com.example.insta_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutaLiIY044oxefrBNitXhRSc6Ggk_geY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
